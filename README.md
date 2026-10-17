@@ -1,5 +1,7 @@
 # bSaver releases
 
+Website: **[bsaver.pl](https://bsaver.pl)**
+
 Downloads and automatic updates for **bSaver**, a menu-bar app that limits MacBook battery charging anywhere from 0% to 100%.
 
 **Download:** get `bSaver-<version>.dmg` from the [latest release](../../releases/latest), open it and drag bSaver to Applications.
@@ -16,4 +18,4 @@ bSaver collects no personal data. It only connects to GitHub to check for update
 
 ## Support
 
-Email **mateusz.matyszczuk@gmail.com**, or use **Contact Support…** in bSaver's gear menu, which adds your app and macOS version to the message.
+Email **support@bsaver.pl**, or use **Contact Support…** in bSaver's gear menu, which adds your app and macOS version to the message. More about bSaver: **[bsaver.pl](https://bsaver.pl)**.

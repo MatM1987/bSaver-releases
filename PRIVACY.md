@@ -1,12 +1,12 @@
 # bSaver Privacy Policy
 
-**Effective date:** 6 October 2026
+**Effective date:** 17 October 2026
 
 bSaver does not collect, store or share any personal data. Everything it reads about your Mac stays on your Mac. The only time it connects to the internet is to check for updates.
 
 ## Who is responsible
 
-bSaver is developed by Mateusz Matyszczuk. For any question about this policy or your data, contact **mateusz.matyszczuk@gmail.com**.
+bSaver is developed by Mateusz Matyszczuk ([bsaver.pl](https://bsaver.pl)). For any question about this policy or your data, contact **support@bsaver.pl**.
 
 ## What bSaver reads on your Mac
 
@@ -51,7 +51,7 @@ If you email us, we receive your email address and whatever you write or attach.
 
 ## Your rights
 
-Because bSaver doesn't collect personal data, there is normally nothing for us to access, correct or delete. For support emails, you can ask for a copy or deletion at any time at mateusz.matyszczuk@gmail.com. If you are in the EU, you also have the right to complain to your local data protection authority (in Poland, the UODO).
+Because bSaver doesn't collect personal data, there is normally nothing for us to access, correct or delete. For support emails, you can ask for a copy or deletion at any time at support@bsaver.pl. If you are in the EU, you also have the right to complain to your local data protection authority (in Poland, the UODO).
 
 ## Removing your data
 
@@ -64,3 +64,5 @@ bSaver is a general-purpose utility and does not knowingly process any data from
 ## Changes to this policy
 
 If this policy changes, the new version will be published at the same address with a new effective date, and noted in the release notes.
+
+*17 October 2026: support address changed to support@bsaver.pl and website added. Nothing else changed.*
