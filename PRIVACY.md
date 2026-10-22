@@ -1,8 +1,8 @@
 # bSaver Privacy Policy
 
-**Effective date:** 21 October 2026
+**Effective date:** October 21, 2026
 
-bSaver does not collect, store or share any personal data. Everything it reads about your Mac stays on your Mac. It connects to the internet only to check for updates and to verify your licence key.
+bSaver does not collect, store or share any personal data. Everything it reads about your Mac stays on your Mac. It connects to the internet only to check for updates and to verify your license key.
 
 ## Who is responsible
 
@@ -21,7 +21,7 @@ It saves only what it needs to work, all locally:
 | --- | --- | --- |
 | Your charge settings (limit, range, sleep option) | `/Library/Application Support/bSaver/` | Keep your settings between restarts |
 | Event log (for example "charger off at 80%") | `/var/log/bsaver.log` and `~/Library/Logs/bSaver/` | Troubleshooting; capped in size and never sent anywhere |
-| Your licence key, its type (Personal or House) and when it was last checked | Your Mac's keychain | Unlock bSaver after the free trial |
+| Your license key, its type (Personal or House) and when it was last checked | Your Mac's keychain | Unlock bSaver after the free trial |
 | When the free trial started | Your Mac's keychain and `/Library/Application Support/bSaver/` | Count the 7-day trial |
 
 None of this leaves your Mac unless you choose to send it to us, for example by attaching a log to a support email.
@@ -30,7 +30,7 @@ None of this leaves your Mac unless you choose to send it to us, for example by 
 
 bSaver connects to the internet for **two purposes only**.
 
-**1. Verifying your licence.** When you enter a licence key, and then about once a month, bSaver sends the key and bSaver's product identifier to Gumroad (`api.gumroad.com`), the store that sold you the licence, to check that it is valid and hasn't been refunded. Nothing else about you or your Mac is sent. Gumroad already has your purchase details from the sale, and processes the request under the [Gumroad Privacy Policy](https://gumroad.com/privacy). bSaver keeps only the key, the licence type and the dates in your keychain.
+**1. Verifying your license.** When you enter a license key, and then about once a month, bSaver sends the key and bSaver's product identifier to Gumroad (`api.gumroad.com`), the store that sold you the license, to check that it is valid and hasn't been refunded. Nothing else about you or your Mac is sent. Gumroad already has your purchase details from the sale, and processes the request under the [Gumroad Privacy Policy](https://gumroad.com/privacy). bSaver keeps only the key, the license type and the dates in your keychain.
 
 **2. Checking for updates.** Once a day, and when you choose **Check for Updates…**, it downloads a small update list from GitHub (`github.com`). If an update is available and you install it, it downloads the update from GitHub too.
 
@@ -43,7 +43,7 @@ You can turn off automatic update checks in the app.
 
 ## Reminders
 
-After the free trial, bSaver may show an occasional notification on your Mac (daily at first, then weekly) as a reminder to buy a licence. These are created on your Mac; nothing is sent anywhere.
+After the free trial, bSaver may show an occasional notification on your Mac (daily at first, then weekly) as a reminder to buy a license. These are created on your Mac; nothing is sent anywhere.
 
 ## What bSaver does not do
 
@@ -75,5 +75,5 @@ bSaver is a general-purpose utility and does not knowingly process any data from
 
 If this policy changes, the new version will be published at the same address with a new effective date, and noted in the release notes.
 
-*17 October 2026: support address changed to support@bsaver.pl and website added.*
-*21 October 2026: licence-key verification with Gumroad, trial dates and reminders added (bSaver 1.6.0).*
+*October 17, 2026: support address changed to support@bsaver.pl and website added.*
+*October 21, 2026: license-key verification with Gumroad, trial dates and reminders added (bSaver 1.6.0).*
