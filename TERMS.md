@@ -1,23 +1,23 @@
 # bSaver Terms of Use
 
-**Effective date:** 21 October 2026 · [Polska wersja poniżej](#warunki-korzystania-z-bsaver)
+**Effective date:** October 21, 2026 · [Polska wersja poniżej](#warunki-korzystania-z-bsaver)
 
 These Terms of Use ("Terms") apply to bSaver, a macOS app developed by Mateusz Matyszczuk ("we", "us"). By installing or using bSaver you agree to these Terms.
 
-## 1. Licence
-- **Free trial:** you may use bSaver free of charge for 7 days. Afterwards its battery monitoring keeps working, and charge control requires a licence.
-- **Personal licence:** use on **one Mac at a time**. You may move it to another Mac you use, as long as it is used on only one Mac at any moment.
-- **House licence:** use on **up to three Macs** used by you or members of your household.
-- **Early supporters:** if you installed bSaver before licence keys were introduced (version 1.5.x or earlier), you may keep using it on that Mac without a key.
-- Licences are activated with a licence key, which bSaver verifies with Gumroad (see the Privacy Policy). A licence for a refunded or charged-back purchase stops working.
-- The licence is personal, non-exclusive and non-transferable. You may not sell, rent, share or redistribute bSaver, its licence or its key.
+## 1. License
+- **Free trial:** you may use bSaver free of charge for 7 days. Afterwards its battery monitoring keeps working, and charge control requires a license.
+- **Personal license:** use on **one Mac at a time**. You may move it to another Mac you use, as long as it is used on only one Mac at any moment.
+- **House license:** use on **up to three Macs** used by you or members of your household.
+- **Early supporters:** if you installed bSaver before license keys were introduced (version 1.5.x or earlier), you may keep using it on that Mac without a key.
+- Licenses are activated with a license key, which bSaver verifies with Gumroad (see the Privacy Policy). A license for a refunded or charged-back purchase stops working.
+- The license is personal, non-exclusive and non-transferable. You may not sell, rent, share or redistribute bSaver, its license or its key.
 - bSaver remains our property. © 2026 Mateusz Matyszczuk. All rights reserved.
 
 ## 2. What you may not do
 You may not copy (except as needed to install and back it up), modify, decompile or reverse-engineer bSaver, or circumvent its protections, except where the law expressly allows it.
 
 ## 3. How bSaver works
-bSaver limits battery charging using controls built into your Mac. It does not change firmware, voltage, current or the battery's own protections. Behaviour depends on your Mac model and macOS version, and Apple may change or remove these controls in future macOS updates, in which case some features may stop working.
+bSaver limits battery charging using controls built into your Mac. It does not change firmware, voltage, current or the battery's own protections. Behavior depends on your Mac model and macOS version, and Apple may change or remove these controls in future macOS updates, in which case some features may stop working.
 
 ## 4. Updates
 bSaver checks for updates and may install them if you allow it. Updates are covered by these Terms.
@@ -33,8 +33,8 @@ To the extent permitted by law, we are not liable for indirect or consequential 
 ## 7. Privacy
 Our [Privacy Policy](PRIVACY.md) explains how bSaver handles data. In short: bSaver collects no personal data.
 
-## 8. Ending the licence
-The licence ends if you breach these Terms. You can end it at any time by uninstalling bSaver (gear menu → Uninstall Helper, then delete the app).
+## 8. Ending the license
+The license ends if you breach these Terms. You can end it at any time by uninstalling bSaver (gear menu → Uninstall Helper, then delete the app).
 
 ## 9. Governing law
 These Terms are governed by Polish law. If you are a consumer, you also keep the protection of the mandatory laws of the country where you live.
