@@ -1,6 +1,6 @@
 # bSaver Privacy Policy
 
-**Effective date:** October 21, 2026
+**Effective date:** October 29, 2026
 
 bSaver does not collect, store or share any personal data. Everything it reads about your Mac stays on your Mac. It connects to the internet only to check for updates and to verify your license key.
 
@@ -21,6 +21,7 @@ It saves only what it needs to work, all locally:
 | --- | --- | --- |
 | Your charge settings (limit, range, sleep option) | `/Library/Application Support/bSaver/` | Keep your settings between restarts |
 | Event log (for example "charger off at 80%") | `/var/log/bsaver.log` and `~/Library/Logs/bSaver/` | Troubleshooting; capped in size and never sent anywhere |
+| Battery level and charging history for the last 24 hours, and the status shown in the widgets | `~/Library/Application Support/bSaver/widget.json` | The desktop widgets; older entries are deleted automatically |
 | Your license key, its type (Personal or House) and when it was last checked | Your Mac's keychain | Unlock bSaver after the free trial |
 | When the free trial started | Your Mac's keychain and `/Library/Application Support/bSaver/` | Count the 7-day trial |
 
@@ -77,3 +78,4 @@ If this policy changes, the new version will be published at the same address wi
 
 *October 17, 2026: support address changed to support@bsaver.pl and website added.*
 *October 21, 2026: license-key verification with Gumroad, trial dates and reminders added (bSaver 1.6.0).*
+*October 29, 2026: local 24-hour battery history for the desktop widgets (bSaver 1.7.0).*
